@@ -91,7 +91,7 @@
       <file leaf-file-name="ex11.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ex11.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="0" selection-start="240" selection-end="240" vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="225">
+            <state line="9" column="0" selection-start="240" selection-end="240" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
               <folding />
             </state>
           </provider>
@@ -100,7 +100,7 @@
       <file leaf-file-name="ex12.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ex12.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="41" selection-start="140" selection-end="140" vertical-scroll-proportion="0.077186964" vertical-offset="0" max-vertical-offset="583">
+            <state line="5" column="71" selection-start="213" selection-end="213" vertical-scroll-proportion="0.12864494" vertical-offset="0" max-vertical-offset="583">
               <folding />
             </state>
           </provider>
@@ -489,7 +489,11 @@
       <created>1388048887433</created>
       <updated>1388048887433</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Ex10, ex 11, ex 12, ex 13 finished">
+      <created>1388048899692</created>
+      <updated>1388048899692</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -617,13 +621,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ex11.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="240" selection-end="240" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ex13.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="9" column="0" selection-start="237" selection-end="237" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
@@ -631,9 +628,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ex11.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="0" selection-start="240" selection-end="240" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ex12.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="41" selection-start="140" selection-end="140" vertical-scroll-proportion="0.077186964" vertical-offset="0" max-vertical-offset="583">
+        <state line="5" column="71" selection-start="213" selection-end="213" vertical-scroll-proportion="0.12864494" vertical-offset="0" max-vertical-offset="583">
           <folding />
         </state>
       </provider>
