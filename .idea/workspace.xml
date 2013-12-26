@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16b0a4b7-68a8-4f4b-a352-1df5e40c5b28" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex8.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex9.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex10.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex11.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex13.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="LearnPythonTheHardWay.iws" />
@@ -27,15 +29,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ex1.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ex1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="20" selection-start="184" selection-end="184" vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="195">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="ex2.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ex2.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -54,24 +47,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ex4.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ex4.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="71" selection-start="556" selection-end="556" vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="300">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ex5.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ex5.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="106" selection-start="621" selection-end="621" vertical-scroll-proportion="0.0" vertical-offset="270" max-vertical-offset="360">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="ex6.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ex6.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -84,7 +59,7 @@
       <file leaf-file-name="ex7.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ex7.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="0" selection-start="375" selection-end="375" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="435">
+            <state line="20" column="0" selection-start="375" selection-end="375" vertical-scroll-proportion="0.0" vertical-offset="300" max-vertical-offset="435">
               <folding />
             </state>
           </provider>
@@ -93,16 +68,52 @@
       <file leaf-file-name="ex8.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ex8.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="1" selection-start="374" selection-end="374" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="270">
+            <state line="12" column="1" selection-start="374" selection-end="374" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="270">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ex9.py" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="ex9.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ex9.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="0" selection-start="397" selection-end="397" vertical-scroll-proportion="0.5859375" vertical-offset="0" max-vertical-offset="384">
+            <state line="15" column="0" selection-start="397" selection-end="397" vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="315">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ex10.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ex10.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="17" column="9" selection-start="286" selection-end="286" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="405">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ex11.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ex11.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="0" selection-start="240" selection-end="240" vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="225">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ex12.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ex12.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="41" selection-start="140" selection-end="140" vertical-scroll-proportion="0.077186964" vertical-offset="0" max-vertical-offset="583">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ex13.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ex13.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="0" selection-start="237" selection-end="237" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
               <folding />
             </state>
           </provider>
@@ -135,6 +146,10 @@
         <option value="$PROJECT_DIR$/ex7.py" />
         <option value="$PROJECT_DIR$/ex8.py" />
         <option value="$PROJECT_DIR$/ex9.py" />
+        <option value="$PROJECT_DIR$/ex10.py" />
+        <option value="$PROJECT_DIR$/ex11.py" />
+        <option value="$PROJECT_DIR$/ex12.py" />
+        <option value="$PROJECT_DIR$/ex13.py" />
       </list>
     </option>
   </component>
@@ -169,6 +184,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -189,95 +205,22 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.lastSelected" value="preferences.sourceCode.General" />
     <property name="recentsLimit" value="5" />
-    <property name="options.lastSelected" value="vcs.Git" />
     <property name="FullScreen" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
       <console-settings />
     </option>
   </component>
-  <component name="RunManager" selected="Python.ex9">
-    <configuration default="false" name="ex5" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="LearnPythonTheHardWay" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex5.py" />
-      <option name="PARAMETERS" value="" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="ex6" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="LearnPythonTheHardWay" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex6.py" />
-      <option name="PARAMETERS" value="" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="ex7" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="LearnPythonTheHardWay" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex7.py" />
-      <option name="PARAMETERS" value="" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="ex8" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="LearnPythonTheHardWay" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex8.py" />
-      <option name="PARAMETERS" value="" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.ex13">
     <configuration default="false" name="ex9" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -291,6 +234,78 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="LearnPythonTheHardWay" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex9.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="ex10" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="LearnPythonTheHardWay" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex10.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="ex11" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="LearnPythonTheHardWay" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex11.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="ex12" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="LearnPythonTheHardWay" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex12.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="ex13" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="LearnPythonTheHardWay" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex13.py" />
       <option name="PARAMETERS" value="" />
       <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
@@ -418,19 +433,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.ex5" />
-      <item index="1" class="java.lang.String" itemvalue="Python.ex6" />
-      <item index="2" class="java.lang.String" itemvalue="Python.ex7" />
-      <item index="3" class="java.lang.String" itemvalue="Python.ex8" />
-      <item index="4" class="java.lang.String" itemvalue="Python.ex9" />
+      <item index="0" class="java.lang.String" itemvalue="Python.ex9" />
+      <item index="1" class="java.lang.String" itemvalue="Python.ex10" />
+      <item index="2" class="java.lang.String" itemvalue="Python.ex11" />
+      <item index="3" class="java.lang.String" itemvalue="Python.ex12" />
+      <item index="4" class="java.lang.String" itemvalue="Python.ex13" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.ex9" />
-        <item index="1" class="java.lang.String" itemvalue="Python.ex8" />
-        <item index="2" class="java.lang.String" itemvalue="Python.ex7" />
-        <item index="3" class="java.lang.String" itemvalue="Python.ex6" />
-        <item index="4" class="java.lang.String" itemvalue="Python.ex5" />
+        <item index="0" class="java.lang.String" itemvalue="Python.ex13" />
+        <item index="1" class="java.lang.String" itemvalue="Python.ex12" />
+        <item index="2" class="java.lang.String" itemvalue="Python.ex11" />
+        <item index="3" class="java.lang.String" itemvalue="Python.ex10" />
+        <item index="4" class="java.lang.String" itemvalue="Python.ex9" />
       </list>
     </recent_temporary>
   </component>
@@ -470,7 +485,11 @@
       <created>1387983374146</created>
       <updated>1387983374146</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Ex8 and Ex9 finished">
+      <created>1388042788591</created>
+      <updated>1388042788591</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -485,7 +504,7 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32569557" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32569557" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -494,7 +513,7 @@
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39934534" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -507,40 +526,13 @@
     <MESSAGE value="Ex3 finishef" />
     <MESSAGE value="Ex4 and Ex 5 finished" />
     <MESSAGE value="Ex6 and Ex7 finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ex6 and Ex7 finished" />
+    <MESSAGE value="Ex8 and Ex9 finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ex8 and Ex9 finished" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ex3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="27" selection-start="162" selection-end="162" vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="330">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ex4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="71" selection-start="556" selection-end="556" vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="300">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ex5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="106" selection-start="621" selection-end="621" vertical-scroll-proportion="0.0" vertical-offset="270" max-vertical-offset="360">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ex1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="20" selection-start="184" selection-end="184" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="195">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ex2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="8" column="22" selection-start="300" selection-end="300" vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="210">
@@ -557,16 +549,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ex4.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="71" selection-start="556" selection-end="556" vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="300">
-          <folding />
-        </state>
+        <state line="14" column="71" selection-start="556" selection-end="556" vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="300" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ex1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="20" selection-start="184" selection-end="184" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="195">
-          <folding />
-        </state>
+        <state line="7" column="20" selection-start="184" selection-end="184" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="195" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ex2.py">
@@ -585,16 +573,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ex4.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="71" selection-start="556" selection-end="556" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="300">
-          <folding />
-        </state>
+        <state line="14" column="71" selection-start="556" selection-end="556" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="300" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ex5.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="106" selection-start="621" selection-end="621" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="360">
-          <folding />
-        </state>
+        <state line="18" column="106" selection-start="621" selection-end="621" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="360" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ex6.py">
@@ -620,7 +604,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ex9.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="0" selection-start="397" selection-end="397" vertical-scroll-proportion="0.5859375" vertical-offset="0" max-vertical-offset="384">
+        <state line="15" column="0" selection-start="397" selection-end="397" vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="315">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex10.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="9" selection-start="286" selection-end="286" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="405">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex11.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="0" selection-start="240" selection-end="240" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex13.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="0" selection-start="237" selection-end="237" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex12.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="41" selection-start="140" selection-end="140" vertical-scroll-proportion="0.077186964" vertical-offset="0" max-vertical-offset="583">
           <folding />
         </state>
       </provider>
