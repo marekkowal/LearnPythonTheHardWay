@@ -463,7 +463,11 @@
       <created>1388153181383</created>
       <updated>1388153181383</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Ex14, ex 15, ex 16, ex 17 finished">
+      <created>1388153203957</created>
+      <updated>1388153203957</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -502,7 +506,8 @@
     <MESSAGE value="Ex6 and Ex7 finished" />
     <MESSAGE value="Ex8 and Ex9 finished" />
     <MESSAGE value="Ex10, ex 11, ex 12, ex 13 finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ex10, ex 11, ex 12, ex 13 finished" />
+    <MESSAGE value="Ex14, ex 15, ex 16, ex 17 finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ex14, ex 15, ex 16, ex 17 finished" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
