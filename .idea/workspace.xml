@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="16b0a4b7-68a8-4f4b-a352-1df5e40c5b28" name="Default" comment="Ex10, ex 11, ex 12, ex 13 finished">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex14.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex15.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex15_sample.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex16.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex17.py" />
+    <list default="true" id="16b0a4b7-68a8-4f4b-a352-1df5e40c5b28" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="LearnPythonTheHardWay.iws" />
@@ -464,7 +459,11 @@
       <created>1388049003707</created>
       <updated>1388049003707</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Ex10, ex 11, ex 12, ex 13 finished">
+      <created>1388153181383</created>
+      <updated>1388153181383</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="ToolWindowManager">
