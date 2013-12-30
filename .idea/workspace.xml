@@ -2,13 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16b0a4b7-68a8-4f4b-a352-1df5e40c5b28" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex18.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex19.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex20.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex21.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex24.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex25.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex26.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex29.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex30.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex31.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex32.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex33.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex35.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex38.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ex18.py" afterPath="$PROJECT_DIR$/ex18.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ex19.py" afterPath="$PROJECT_DIR$/ex19.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ex20.py" afterPath="$PROJECT_DIR$/ex20.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="LearnPythonTheHardWay.iws" />
@@ -32,86 +35,82 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ex16.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ex16.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="24" selection-start="654" selection-end="654" vertical-scroll-proportion="0.0" vertical-offset="2" max-vertical-offset="585">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ex12.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ex12.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="25" selection-start="83" selection-end="83" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="165">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ex19.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ex19.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="390">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ex20.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ex20.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="615">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ex21.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ex21.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="37" column="54" selection-start="740" selection-end="740" vertical-scroll-proportion="0.0" vertical-offset="269" max-vertical-offset="645">
-              <folding>
-                <marker date="1388322224000" expanded="true" signature="37:90" placeholder="..." />
-                <marker date="1388322224000" expanded="true" signature="112:170" placeholder="..." />
-                <marker date="1388322224000" expanded="true" signature="192:250" placeholder="..." />
-                <marker date="1388322224000" expanded="true" signature="270:325" placeholder="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ex24.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ex24.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="39" column="0" selection-start="964" selection-end="964" vertical-scroll-proportion="0.0" vertical-offset="254" max-vertical-offset="675">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="ex25.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ex25.py">
           <provider selected="true" editor-type-id="text-editor">
             <state line="23" column="14" selection-start="468" selection-end="468" vertical-scroll-proportion="0.0" vertical-offset="224" max-vertical-offset="765">
-              <folding>
-                <marker date="1388324043000" expanded="true" signature="46:144" placeholder="..." />
-                <marker date="1388324043000" expanded="true" signature="169:221" placeholder="..." />
-                <marker date="1388324043000" expanded="true" signature="252:345" placeholder="..." />
-                <marker date="1388324043000" expanded="true" signature="375:468" placeholder="..." />
-                <marker date="1388324043000" expanded="true" signature="499:627" placeholder="..." />
-                <marker date="1388324043000" expanded="true" signature="665:813" placeholder="..." />
-                <marker date="1388324043000" expanded="true" signature="858:1011" placeholder="..." />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ex26.py" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="ex26.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ex26.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="98" column="0" selection-start="2275" selection-end="2275" vertical-scroll-proportion="0.765625" vertical-offset="1176" max-vertical-offset="1560">
+            <state line="93" column="18" selection-start="2203" selection-end="2203" vertical-scroll-proportion="0.0" vertical-offset="977" max-vertical-offset="1560">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ex29.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ex29.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="17" selection-start="239" selection-end="239" vertical-scroll-proportion="0.0" vertical-offset="195" max-vertical-offset="435">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ex30.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ex30.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="22" column="38" selection-start="474" selection-end="474" vertical-scroll-proportion="0.0" vertical-offset="330" max-vertical-offset="420">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ex31.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ex31.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="34" column="69" selection-start="1088" selection-end="1088" vertical-scroll-proportion="0.0" vertical-offset="510" max-vertical-offset="600">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ex32.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ex32.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="26" column="20" selection-start="744" selection-end="744" vertical-scroll-proportion="0.0" vertical-offset="141" max-vertical-offset="570">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ex33.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ex33.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="11" selection-start="75" selection-end="75" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="375">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ex35.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ex35.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="9" selection-start="210" selection-end="210" vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="1230">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ex38.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ex38.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="22" column="23" selection-start="589" selection-end="589" vertical-scroll-proportion="0.7265625" vertical-offset="51" max-vertical-offset="435">
               <folding />
             </state>
           </provider>
@@ -144,13 +143,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/ex10.py" />
-        <option value="$PROJECT_DIR$/ex11.py" />
-        <option value="$PROJECT_DIR$/ex13.py" />
-        <option value="$PROJECT_DIR$/ex12.py" />
-        <option value="$PROJECT_DIR$/ex14.py" />
-        <option value="$PROJECT_DIR$/ex15_sample.txt" />
-        <option value="$PROJECT_DIR$/ex15.py" />
         <option value="$PROJECT_DIR$/ex16.py" />
         <option value="$PROJECT_DIR$/ex18.py" />
         <option value="$PROJECT_DIR$/ex19.py" />
@@ -160,6 +152,13 @@
         <option value="$PROJECT_DIR$/ex24.py" />
         <option value="$PROJECT_DIR$/ex25.py" />
         <option value="$PROJECT_DIR$/ex26.py" />
+        <option value="$PROJECT_DIR$/ex29.py" />
+        <option value="$PROJECT_DIR$/ex30.py" />
+        <option value="$PROJECT_DIR$/ex31.py" />
+        <option value="$PROJECT_DIR$/ex32.py" />
+        <option value="$PROJECT_DIR$/ex33.py" />
+        <option value="$PROJECT_DIR$/ex35.py" />
+        <option value="$PROJECT_DIR$/ex38.py" />
       </list>
     </option>
   </component>
@@ -194,6 +193,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -214,16 +214,15 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.lastSelected" value="appearance" />
     <property name="recentsLimit" value="5" />
-    <property name="options.lastSelected" value="editor.preferences.appearance" />
     <property name="FullScreen" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -235,8 +234,8 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ex26">
-    <configuration default="false" name="ex13" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.ex38">
+    <configuration default="false" name="ex31" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -248,13 +247,13 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="LearnPythonTheHardWay" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex13.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex31.py" />
       <option name="PARAMETERS" value="" />
       <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
-    <configuration default="false" name="ex21" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="ex32" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -266,13 +265,13 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="LearnPythonTheHardWay" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex21.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex32.py" />
       <option name="PARAMETERS" value="" />
       <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
-    <configuration default="false" name="ex24" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="ex33" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -284,13 +283,13 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="LearnPythonTheHardWay" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex24.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex33.py" />
       <option name="PARAMETERS" value="" />
       <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
-    <configuration default="false" name="ex25" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="ex35" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -302,13 +301,13 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="LearnPythonTheHardWay" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex25.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex35.py" />
       <option name="PARAMETERS" value="" />
       <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
-    <configuration default="false" name="ex26" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="ex38" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -320,11 +319,9 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="LearnPythonTheHardWay" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex26.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex38.py" />
       <option name="PARAMETERS" value="" />
-      <RunnerSettings RunnerId="PyDebugRunner" />
       <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PyDebugRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
@@ -450,19 +447,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.ex13" />
-      <item index="1" class="java.lang.String" itemvalue="Python.ex21" />
-      <item index="2" class="java.lang.String" itemvalue="Python.ex24" />
-      <item index="3" class="java.lang.String" itemvalue="Python.ex25" />
-      <item index="4" class="java.lang.String" itemvalue="Python.ex26" />
+      <item index="0" class="java.lang.String" itemvalue="Python.ex31" />
+      <item index="1" class="java.lang.String" itemvalue="Python.ex32" />
+      <item index="2" class="java.lang.String" itemvalue="Python.ex33" />
+      <item index="3" class="java.lang.String" itemvalue="Python.ex35" />
+      <item index="4" class="java.lang.String" itemvalue="Python.ex38" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.ex26" />
-        <item index="1" class="java.lang.String" itemvalue="Python.ex25" />
-        <item index="2" class="java.lang.String" itemvalue="Python.ex24" />
-        <item index="3" class="java.lang.String" itemvalue="Python.ex21" />
-        <item index="4" class="java.lang.String" itemvalue="Python.ex13" />
+        <item index="0" class="java.lang.String" itemvalue="Python.ex38" />
+        <item index="1" class="java.lang.String" itemvalue="Python.ex35" />
+        <item index="2" class="java.lang.String" itemvalue="Python.ex33" />
+        <item index="3" class="java.lang.String" itemvalue="Python.ex32" />
+        <item index="4" class="java.lang.String" itemvalue="Python.ex31" />
       </list>
     </recent_temporary>
   </component>
@@ -534,7 +531,11 @@
       <created>1388153224957</created>
       <updated>1388153224957</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Ex18 to ex26 finished">
+      <created>1388326006532</created>
+      <updated>1388326006532</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -549,7 +550,7 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39934534" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32569557" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32569557" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -574,97 +575,31 @@
     <MESSAGE value="Ex8 and Ex9 finished" />
     <MESSAGE value="Ex10, ex 11, ex 12, ex 13 finished" />
     <MESSAGE value="Ex14, ex 15, ex 16, ex 17 finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ex14, ex 15, ex 16, ex 17 finished" />
+    <MESSAGE value="Ex18 to ex26 finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ex18 to ex26 finished" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ex3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="27" selection-start="162" selection-end="162" vertical-scroll-proportion="0.12864494" vertical-offset="0" max-vertical-offset="583" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ex14.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="26" selection-start="201" selection-end="201" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="435">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ex15.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="17" selection-start="294" selection-end="294" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="360">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ex15_sample.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="37" selection-start="97" selection-end="97" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="120">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ex18.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="0" selection-start="91" selection-end="91" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="405">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ex12.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="25" selection-start="83" selection-end="83" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="165">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ex19.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="583">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="560">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ex17.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="46" selection-start="88" selection-end="88" vertical-scroll-proportion="0.05357143" vertical-offset="0" max-vertical-offset="560">
-          <folding />
-        </state>
+        <state line="2" column="46" selection-start="88" selection-end="88" vertical-scroll-proportion="0.05357143" vertical-offset="0" max-vertical-offset="560" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ex16.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="24" selection-start="654" selection-end="654" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="585">
-          <folding />
-        </state>
+        <state line="30" column="24" selection-start="654" selection-end="654" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="585" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ex20.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="583">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="583" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ex21.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="54" selection-start="740" selection-end="740" vertical-scroll-proportion="0.0" vertical-offset="269" max-vertical-offset="645">
-          <folding>
-            <marker date="1388322224000" expanded="true" signature="37:90" placeholder="..." />
-            <marker date="1388322224000" expanded="true" signature="112:170" placeholder="..." />
-            <marker date="1388322224000" expanded="true" signature="192:250" placeholder="..." />
-            <marker date="1388322224000" expanded="true" signature="270:325" placeholder="..." />
-          </folding>
-        </state>
+        <state line="37" column="54" selection-start="740" selection-end="740" vertical-scroll-proportion="0.0" vertical-offset="269" max-vertical-offset="645" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ex24.py">
@@ -677,28 +612,74 @@
     <entry file="file://$PROJECT_DIR$/ex25.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="23" column="14" selection-start="468" selection-end="468" vertical-scroll-proportion="0.0" vertical-offset="224" max-vertical-offset="765">
-          <folding>
-            <marker date="1388324043000" expanded="true" signature="46:144" placeholder="..." />
-            <marker date="1388324043000" expanded="true" signature="169:221" placeholder="..." />
-            <marker date="1388324043000" expanded="true" signature="252:345" placeholder="..." />
-            <marker date="1388324043000" expanded="true" signature="375:468" placeholder="..." />
-            <marker date="1388324043000" expanded="true" signature="499:627" placeholder="..." />
-            <marker date="1388324043000" expanded="true" signature="665:813" placeholder="..." />
-            <marker date="1388324043000" expanded="true" signature="858:1011" placeholder="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1142" column="0" selection-start="47510" selection-end="47510" vertical-scroll-proportion="49.5092" vertical-offset="0" max-vertical-offset="22080">
-          <folding />
-        </state>
+        <state line="1142" column="0" selection-start="47510" selection-end="47510" vertical-scroll-proportion="49.5092" vertical-offset="0" max-vertical-offset="22080" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ex26.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="98" column="0" selection-start="2275" selection-end="2275" vertical-scroll-proportion="0.765625" vertical-offset="1176" max-vertical-offset="1560">
+        <state line="93" column="18" selection-start="2203" selection-end="2203" vertical-scroll-proportion="0.0" vertical-offset="977" max-vertical-offset="1560">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex29.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="17" selection-start="239" selection-end="239" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="435">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex30.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="38" selection-start="474" selection-end="474" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="420">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="560">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex31.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="69" selection-start="1088" selection-end="1088" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="600">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex32.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="20" selection-start="744" selection-end="744" vertical-scroll-proportion="0.0" vertical-offset="141" max-vertical-offset="570">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex33.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="11" selection-start="75" selection-end="75" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="375">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex35.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="9" selection-start="210" selection-end="210" vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="1230">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex38.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="23" selection-start="589" selection-end="589" vertical-scroll-proportion="0.7265625" vertical-offset="51" max-vertical-offset="435">
           <folding />
         </state>
       </provider>
