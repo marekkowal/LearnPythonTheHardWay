@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16b0a4b7-68a8-4f4b-a352-1df5e40c5b28" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex43.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ex18.py" afterPath="$PROJECT_DIR$/ex18.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ex19.py" afterPath="$PROJECT_DIR$/ex19.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ex20.py" afterPath="$PROJECT_DIR$/ex20.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ex43.py" afterPath="$PROJECT_DIR$/ex43.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="LearnPythonTheHardWay.iws" />
@@ -104,7 +104,7 @@
       <file leaf-file-name="ex43.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ex43.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="62" column="13" selection-start="738" selection-end="738" vertical-scroll-proportion="0.84562606" vertical-offset="437" max-vertical-offset="1020">
+            <state line="114" column="0" selection-start="3428" selection-end="3428" vertical-scroll-proportion="0.7427101" vertical-offset="1277" max-vertical-offset="1860">
               <folding />
             </state>
           </provider>
@@ -212,11 +212,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
-    <property name="options.lastSelected" value="appearance" />
     <property name="recentsLimit" value="5" />
+    <property name="options.lastSelected" value="appearance" />
     <property name="FullScreen" value="false" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -539,7 +539,11 @@
       <created>1388583956991</created>
       <updated>1388583956991</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Ex43 skeleton ready">
+      <created>1388842054326</created>
+      <updated>1388842054326</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -550,7 +554,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.6743044" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.6743044" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39934534" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -582,7 +586,8 @@
     <MESSAGE value="Ex18 to ex26 finished" />
     <MESSAGE value="Ex29 to ex38 finished" />
     <MESSAGE value="Ex39 to ex42 finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ex39 to ex42 finished" />
+    <MESSAGE value="Ex43 skeleton ready" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ex43 skeleton ready" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -683,7 +688,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ex43.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="62" column="13" selection-start="738" selection-end="738" vertical-scroll-proportion="0.84562606" vertical-offset="437" max-vertical-offset="1020">
+        <state line="114" column="0" selection-start="3428" selection-end="3428" vertical-scroll-proportion="0.7427101" vertical-offset="1277" max-vertical-offset="1860">
           <folding />
         </state>
       </provider>
